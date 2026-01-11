@@ -42,8 +42,6 @@ header {
 
 const allowedUrls = [
 	`pony.town`,
-	`***REMOVED***`,
-	`***REMOVED***`,
 ];
 
 const addr_pt = 'https://pony.town/';
